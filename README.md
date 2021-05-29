@@ -3,7 +3,7 @@ A machine learning based web-app that predict if employees are likely to leave t
 
 ---
 <!-- Add banner here -->
-![Banner]()
+![Banner](https://github.com/KetanThakare/employee-attrition-predictor/tree/main/Pictures/banner.png)
 
 # Project Title
 
