@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Predictor</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict with ANN</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+        
+        <div class = "column">
+    	<input type="text" name="Purpose" placeholder="Purpose" required="required" />
+        <input type="text" name="Curved surface" placeholder="Curved surface" required="required" />
+		<input type="text" name="Small features at base" placeholder="Small features at base" required="required" />
+        <input type="text" name="Thin walls" placeholder="Thin walls" required="required" />
+        <input type="text" name="Sloping Profile" placeholder="Sloping Profile" required="required" />
+        </div>
+        <div class = "column">
+        <input type="text" name="Overhangs" placeholder="Overhangs" required="required" />
+        <input type="text" name="Small holes" placeholder="Small holes" required="required" />
+        <input type="text" name="Material" placeholder="Material" required="required" />
+        <input type="text" name="Ultimate Strength" placeholder="Ultimate Strength" required="required" />
+        <input type="text" name="Stiffness" placeholder="Stiffness" required="required" />
+        </div>
+        
+        <div class = "column">
+        <input type="text" name="Durability" placeholder="Durability" required="required" />
+        <input type="text" name="Density" placeholder="Density" required="required" />
+        <input type="text" name="Extruder temperature" placeholder="Extruder temperature" required="required" />
+        <input type="text" name="Bed temperature" placeholder="Bed temperature" required="required" />
+        </div>
+        
+        <button type="submit" class="btn">Predict</button>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+   <br>
+   <br>
+   {{ prediction_text1 }}
+   </form>
+    
+   <form action="{{ url_for('recommendation')}}"method="post">
+   
+   <input type="text" name="Recommendation for layer height" placeholder="Recommendation: layer height" required="required" />
+   <input type="text" name="Recommendation forprinting speed" placeholder="Recommendation: printing speed" required="required" />
+   <button type="submit" class="btn">Submit Recommendation</button>
+   
+   <br>
+   <br>
+   {{ recommendation_text }}
+   
+   </form>
+   
+ </div>
+
+
+</body>
+</html>
