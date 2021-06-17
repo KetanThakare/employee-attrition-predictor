@@ -25,7 +25,7 @@ Here is a random GIF as a placeholder.
 # Installation
 [(Back to top)](#table-of-contents)
 
-To use this project, first clone the repo on your device using the command below:
+To use this project, first clone the repo on your device by pasting the commands below:
 
 ```git init```
 
