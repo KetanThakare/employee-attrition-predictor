@@ -51,8 +51,7 @@ The steps to use the app:
 - ### Machine learning aspect
 
 - ### Web applicatiom aspect
-
-      Under progress: to deploy the model on AWS server so it's accesible via internet. 
+     Under progress: to deploy the model on AWS server so it's accesible via internet. 
 
 
 
