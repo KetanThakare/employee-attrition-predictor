@@ -48,9 +48,9 @@ The steps to use the app:
 # Development
 [(Back to top)](#table-of-contents)
 
-## Machine learning 
+  ## Machine learning 
 
-## Web applicatiom
+  ## Web applicatiom
 Under progress: to deploy the model on AWS server so it's accesible via internet. 
 
 
