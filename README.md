@@ -32,7 +32,7 @@ To use this project, first clone the repo on your device by pasting the commands
 ```git clone https://github.com/KetanThakare/employee-attrition-predictor.git```
 
 Once you run the app.py, the website would start running on local deploymentt server. Then, enter local server address (e.g. https://) to visit the webapp. 
-(You might have to install the required packages mentioned in requriments[requirements.txt] document.)
+(You might have to install the required packages mentioned in requriments [requirements.txt] document.)
 
 # Usage
 [(Back to top)](#table-of-contents)
