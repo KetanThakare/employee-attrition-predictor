@@ -40,7 +40,7 @@ Once you run the app.py, the website would start running on local deploymentt se
 The webapp is intuitive and should be easy to use. 
 
 The steps to use the app:
-1. Enter the employee's information in the text fields which are innput variables for our ML model.  
+1. Enter the employee's information in the text fields which are input variables for our ML model.  
 2. Hit the **Predict** button to see the result. 
 
 
@@ -48,6 +48,9 @@ The steps to use the app:
 # Development
 [(Back to top)](#table-of-contents)
 
+## Machine learning 
+
+## Web applicatiom
 Under progress: to deploy the model on AWS server so it's accesible via internet. 
 
 
@@ -56,4 +59,3 @@ Under progress: to deploy the model on AWS server so it's accesible via internet
 [(Back to top)](#table-of-contents)
 
 [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
-
