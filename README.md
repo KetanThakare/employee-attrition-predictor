@@ -48,7 +48,8 @@ The steps to use the app:
 # Development
 [(Back to top)](#table-of-contents)
 
-- ### Machine learning aspect
+- ### Data science aspect
+     CRISP-DM framework was followed.
 
 - ### Web applicatiom aspect
      Under progress: to deploy the model on AWS server so it's accesible via internet. 
