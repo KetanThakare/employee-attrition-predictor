@@ -51,8 +51,10 @@ CRISP-DM framework was followed.
   alt="CRISP-DM">
   <figcaption>Kenneth Jensens image describing the CRISP-DM steps</figcaption>
 </figure>
+
 \
 &nbsp;
+
 **Business and Data understanding:** The dataset used can be found [here](Notebooks/Human_Resources.csv) and was sourced from Kaggle.
 
 **Data Preparation:** The notebook can be found [here](Notebooks/Data%20Preparation.ipynb)
