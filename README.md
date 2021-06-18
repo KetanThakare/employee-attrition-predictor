@@ -52,13 +52,14 @@ CRISP-DM framework was followed.
   <figcaption>Kenneth Jensens image describing the CRISP-DM steps</figcaption>
 </figure>
 
-Business and Data understanding: The dataset used can be found [here](Notebooks/Human_Resources.csv) and was sourced from Kaggle.
 
-Data Preparation: The notebook can be found [here](Notebooks/Data%20Preparation.ipynb)
+**Business and Data understanding: **The dataset used can be found [here](Notebooks/Human_Resources.csv) and was sourced from Kaggle.
 
-Modeling and Evaluation: [This notebook](Noteboks/Modeling%20and%20Evaluation.ipynb) decribes model creation and evalutaion.
+**Data Preparation:** The notebook can be found [here](Notebooks/Data%20Preparation.ipynb)
 
-Deployment: The web-app described has been created to run on local deployment server._(Under process: to deploy the model on AWS server so it's accesible via internet.)_ 
+**Modeling and Evaluation: **[This notebook](Noteboks/Modeling%20and%20Evaluation.ipynb) decribes model creation and evalutaion.
+
+**Deployment: **The web-app described has been created to run on local deployment server._(Under process: to deploy the model on AWS server so it's accesible via internet.)_ 
 
 
 
