@@ -13,7 +13,7 @@ After you have written about your project, it is a good idea to have a demo/prev
 
 Here is a random GIF as a placeholder.
 
-![Random GIF](https://gfycat.com/theseeasygoinglemur)
+![Random GIF](https://thumbs.gfycat.com/TheseEasygoingLemur-mobile.mp4)
 
 # Table of contents
 - [Installation](#installation)
