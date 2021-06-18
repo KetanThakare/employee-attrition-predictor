@@ -48,7 +48,7 @@ The steps to use the app:
      CRISP-DM framework was followed.
 
 - ### Web applicatiom aspect
-     Under progress: to deploy the model on AWS server so it's accesible via internet. 
+     _(In progress: to deploy the model on AWS server so it's accesible via internet.)_ 
 
 
 
