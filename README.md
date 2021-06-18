@@ -9,7 +9,7 @@
 # Demo-Preview
 <!-- Add a demo for your project -->
 
-![Random GIF](https://media.giphy.com/media/cjuMNKnxYRMxjDlm27/giphy.gif)
+![Random GIF](https://media.giphy.com/media/WKHZhfeKrrR3r487ql/giphy.gif)
 
 # Table of contents
 - [Installation](#installation)
