@@ -44,11 +44,15 @@ The steps to use the app:
 # Development
 [(Back to top)](#table-of-contents)
 
-- ### Data science aspect
-     CRISP-DM framework was followed.
+CRISP-DM framework was followed.
+<figure>
+  <img
+  src="https://github.com/KetanThakare/employee-attrition-predictor/blob/main/Pictures/CRISP-DM.png"
+  alt="CRISP-DM">
+  <figcaption>Kenneth Jensens image describing the CRISP-DM steps</figcaption>
+</figure>
 
-- ### Web applicatiom aspect
-     _(In progress: to deploy the model on AWS server so it's accesible via internet.)_ 
+_(Under process: to deploy the model on AWS server so it's accesible via internet.)_ 
 
 
 
