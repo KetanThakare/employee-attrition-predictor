@@ -13,7 +13,7 @@ After you have written about your project, it is a good idea to have a demo/prev
 
 Here is a random GIF as a placeholder.
 
-![Random GIF](https://giphy.com/gifs/cjuMNKnxYRMxjDlm27?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+![Random GIF](https://media.giphy.com/media/cjuMNKnxYRMxjDlm27/giphy.gif)
 
 # Table of contents
 - [Installation](#installation)
